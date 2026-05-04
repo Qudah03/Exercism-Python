@@ -1,0 +1,9 @@
+exercism download --track=python --exercise=<name>
+cd python\<name>
+pytest
+exercism submit <file>.py
+
+cd C:\Users\abdallaha\Desktop\Exercism-Python
+git add .
+git commit -m "Solve <name>"
+git push
